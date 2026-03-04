@@ -28,6 +28,8 @@ Key ideas
 ## 🔍 COLD CASE
 **AI-Generated Mystery Investigation**
 
+🎮 https://muffinbiter.github.io/coldcase/
+
 AI creates unique criminal cases and suspects for every playthrough.
 
 Players interrogate suspects, connect clues, and uncover the truth through conversational investigation.
@@ -42,6 +44,8 @@ Key ideas
 ## 🎨 DOODLEMON
 **AI Drawing Monster Game**
 
+🎮 https://muffinbiter.github.io/doodlemon/
+
 Your drawings become monsters.
 
 Players draw creatures on a canvas, and AI analyzes the drawing to generate a unique monster used in turn-based battles.
@@ -55,6 +59,8 @@ Key ideas
 
 ## 🐱 Our Neighborhood Cat
 **Narrative Pixel Village Game**
+
+🎮 https://muffinbiter.github.io/ourvillagecat/
 
 A cozy exploration game where a wandering cat interacts with villagers and slowly warms the town.
 
